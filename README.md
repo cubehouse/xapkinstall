@@ -10,8 +10,6 @@ Clone repo and run "npm i" to install dependencies.
 
 === XAPK Installer ===
 
-Written by Jamie Holding (@cube)
-
 
 Usage: xapkinstall [options] <xapk>
 
